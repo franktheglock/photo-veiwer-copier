@@ -1,13 +1,20 @@
 planned features
 
-> folder selecting (implimented)
-> subfolder detection (not implimented)
-> keyboard shortcuts (not implimented)
-> photo copying by date (implimented)
-> duplicate detection (i think it works?)
-> photo rating using exif data (not implimented)
-> support for more filetypes (sony .arw, more to come)
-> better ui (fingers crossed)
+folder selecting (implimented)
+
+subfolder detection (not implimented)
+
+keyboard shortcuts (not implimented)
+
+photo copying by date (implimented)
+
+duplicate detection (i think it works?)
+
+photo rating using exif data (not implimented)
+
+support for more filetypes (sony .arw, more to come)
+
+better ui (fingers crossed)
 
 
 ***DISCLAMER***
