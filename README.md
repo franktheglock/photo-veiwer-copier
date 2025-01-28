@@ -16,6 +16,7 @@ support for more filetypes (sony .arw, more to come)
 
 better ui (fingers crossed)
 
+automatic rotation of photos (not implemented)
 
 ***DISCLAMER***
 
